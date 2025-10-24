@@ -1,13 +1,11 @@
 {
 	"name": "@mercuryworkshop/scramjet",
 	"version": "2.0.0-alpha",
-	"packageManager": "pnpm@9.0.0",
 	"description": "An experimental web proxy that aims to be the successor to Ultraviolet",
 	"type": "module",
 	"types": "./dist/types/index.d.ts",
 	"engines": {
-  "node": ">=18",
-  "pnpm": ">=9"
+  "node": ">=18"
 },
 	"repository": {
 		"type": "git",
